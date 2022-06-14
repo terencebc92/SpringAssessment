@@ -1,5 +1,5 @@
 # SpringAssessment  
-Our task was to build a full-stack To-do list application using Java and the Spring Boot framework, while also building out the front-end with HTML and CSS.
+Our task was to build a full-stack To-do list application using Java and the Spring Boot framework, while also building out the front-end with HTML and CSS within a day.
 
 ## What did you like about this project?
 The project allowed me to practice building a web application from scratch and to troubleshoot any issues that came up along the way (and there were several). The project also gave me an opportunity to think about the design and requirements on a high level before going ahead to write the code. 
